@@ -6,6 +6,9 @@ The shown data is a computation of both [Fraser Institute's Secondary School Dat
 The Fraser Institute's data relies of objective public metrics including factors the average level of achievement on the grade-9
 EQAO assessment in academic and applied mathematics<sup>[1](#myfootnote1)</sup>, percentages of Ontario Secondary School Literacy Tests (OSSLT) written by first time and previously eligible students which were successful and unsuccessful,<sup>[2](#myfootnote2)</sup> and differences between male and female students in attempts of the OSSLT as well as the grade 9 EQAO assessment.<sup>[3](#myfootnote3)</sup>
 
+
+Waterloo Engineering's Adjustment Factor is a list of "what school inflated its marks by how much, by comparing the final high school marks students were admitted with to the marks at the end of first year. For schools whose graduates were admitted often enough to reach conclusions, that information could be used to help make future admissions decisions."<sup>[4](#myfootnote4)</sup>
+
 Both datasets are computed equally to provide a more accurate valuation of each secondary school.
 
 
@@ -30,3 +33,5 @@ Both datasets are computed equally to provide a more accurate valuation of each 
 <a name="myfootnote2">2</a>: <a href="http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf">ibid.</a>
 
 <a name="myfootnote3">3</a>: <a href="http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf">ibid.</a>
+
+<a name="myfootnote1">1</a>: One university’s secret list to judge applicants by their high schools – not just their marks, https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/ (accessed June 2, 2019).
