@@ -44,7 +44,8 @@ Both datasets are computed equally to provide a more accurate valuation of each 
 | 731                                                                          | West Credit             | 731/738                              | 16.3                                      | NO CHANGE    |
 
 #### Full Data Set
-To view the full data set see [the spreadsheet](http://bit.ly/keshav-dateset) or .
+To view the full data set see [the spreadsheet]<a href="http://bit.ly/keshav-dateset" target="_blank">the spreadsheet</a> or Final-Published-Rankings.csv	.
+
 #### Disclaimer
 This computation and analysis is solely for informational purposes and does reflect any indication as to if one secondary school is better than another. The above and linked information is not guaranteed to be accurate or up to date and nor should it be used for any serious purposes. All information used in this analysis is public information and can be found in the cited links. For issues or errors please contact [Keshav Chawla](mailto:hello@keshavchawla.com).
 
