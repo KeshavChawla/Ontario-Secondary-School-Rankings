@@ -8,6 +8,9 @@ EQAO assessment in academic and applied mathematics [^1] , percentages of Ontari
 
 Both datasets are computed equally to provide a more accurate valuation of each secondary school.
 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
 
 
 | True Rankings Based on Fraser Data and Waterloo Engineering Adjustment Factor | School Name            | Fraser Secondary School 2017-18 Rank | Waterloo Engineering 2017-2018 Adjustment | 5 Year Trend |
