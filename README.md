@@ -1,5 +1,5 @@
 # Ontario Secondary School Rankings
-## Comparing Ontario Secondary School Academic Rankings from the Fraser Institute with Waterloo Engineering Adjustment Factors  
+## Comparing Ontario Secondary School Academic Rankings from the Fraser Institute with the Waterloo Engineering Adjustment Factor  
 
 The shown data is a computation of both [Fraser Institute's Secondary School Data](http://ontario.compareschoolrankings.org/secondary/SchoolsByRankLocationName.aspx) as well as the [University of Waterloo's Engineering Adjustment Factor](https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/).
 
