@@ -46,7 +46,7 @@ Both datasets are computed equally to provide a more accurate valuation of each 
 #### Full Data Set
 To view the full data set see [the spreadsheet](http://bit.ly/keshav-dateset) or .
 #### Disclaimer
-This computation and analysis is solely for informational purposes and does reflect any indication as to if one secondary school is better than another. The above and linked information is not guaranteed to be accurate or up to date and nor should it be used for any serious purposes. All information used in this analysis is public information and can be found in the cited links. For issues or errors please contact [Keshav Chawla](mailto:hello@keshavchawla,com?subject=[GitHub OSS Data Analysis]).
+This computation and analysis is solely for informational purposes and does reflect any indication as to if one secondary school is better than another. The above and linked information is not guaranteed to be accurate or up to date and nor should it be used for any serious purposes. All information used in this analysis is public information and can be found in the cited links. For issues or errors please contact [Keshav Chawla](mailto:hello@keshavchawla.com?subject=[GitHub OSS Data Analysis).
 
 
 <a name="myfootnote1">1</a>: Report Card on Ontario’s Secondary Schools 2019, http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf (accessed June 2, 2019).
