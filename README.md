@@ -30,7 +30,7 @@ Both datasets are computed equally to provide a more accurate valuation of each 
 
 ### Below are the rankings of the lowest 10 schools as comprised of both Fraser Institute's data and Waterloo's Engineering Adjustment Factor
 
-| True Rankings Based on Fraser Data and Waterloo Engineering Adjusment Factor | School Name             | Fraser Secondary School 2017-18 Rank | Waterloo Engineering 2017-2018 Adjustment | 5 Year Trend |
+| True Rankings Based on Fraser Data and Waterloo Engineering Adjustment Factor | School Name             | Fraser Secondary School 2017-18 Rank | Waterloo Engineering 2017-2018 Adjustment | 5 Year Trend |
 |------------------------------------------------------------------------------|-------------------------|--------------------------------------|-------------------------------------------|--------------|
 | 729                                                                          | Northern Lights         | 730/738                              | 16.3                                      | NO CHANGE    |
 | 730                                                                          | George S Henry          | 666/738                              | 22.4                                      | NO CHANGE    |
