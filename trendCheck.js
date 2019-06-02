@@ -9,9 +9,7 @@ function checkTrend(inputval, preval) {
     var namesTwo = sheet.getRange("M2:M72");
 
  // return Names.getCell(12, 1).getValue();
-  if(preval.equals("—") || preval.equals("n/a")){
-    return returnval;
-  }
+
   for (var y = 1; y < 50; y++) {
     if (inputval!=null && preval.equals("") && inputval.equals(names.getCell(y, 1).getValue()))
     {
