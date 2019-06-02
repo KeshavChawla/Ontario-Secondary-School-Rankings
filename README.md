@@ -4,7 +4,7 @@
 The shown data is a computation of both [Fraser Institute's Secondary School Data](http://ontario.compareschoolrankings.org/secondary/SchoolsByRankLocationName.aspx) as well as the [University of Waterloo's Engineering Adjustment Factor](https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/).
 
  The Fraser Institute's data relies of objective public metrics including factors the average level of achievement on the grade-9
-EQAO assessment in academic and applied mathematics[^fn], percentages of Ontario Secondary School Literacy Tests (OSSLT) written by first time and previously eligible students which were successful and unsuccessful[^fn1], and differences between male and female students in attempts of the OSSLT as well as the grade 9 EQAO assessment[^fn2].
+EQAO assessment in academic and applied mathematics [^1], percentages of Ontario Secondary School Literacy Tests (OSSLT) written by first time and previously eligible students which were successful and unsuccessful[^fn1], and differences between male and female students in attempts of the OSSLT as well as the grade 9 EQAO assessment[^fn2].
 
 Both datasets are computed equally to provide a more accurate valuation of each secondary school.
 
@@ -26,7 +26,7 @@ Both datasets are computed equally to provide a more accurate valuation of each 
 
 
 
-[^fn]: Report Card on Ontario’s Secondary Schools 2019,
+[^1]: Report Card on Ontario’s Secondary Schools 2019,
 
 http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf
 (accessed June 2, 2019), ¶6.
