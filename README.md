@@ -56,4 +56,4 @@ This computation and analysis is solely for informational purposes and does refl
 
 <a name="myfootnote3">3</a>: <a href="http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf">ibid.</a>
 
-<a name="myfootnote1">1</a>: One university’s secret list to judge applicants by their high schools – not just their marks, https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/ (accessed June 2, 2019).
+<a name="myfootnote1">4</a>: One university’s secret list to judge applicants by their high schools – not just their marks, https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/ (accessed June 2, 2019).
