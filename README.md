@@ -26,5 +26,7 @@ Both datasets are computed equally to provide a more accurate valuation of each 
 
 
 <a name="myfootnote1">1</a>: Report Card on Ontario’s Secondary Schools 2019, http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf (accessed June 2, 2019).
-[^fn1]: ibid.
-[^fn2]: ibid.
+
+<a name="myfootnote2">2</a>: <a href="http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf">ibid.</a>
+
+<a name="myfootnote3">3</a>: <a href="http://ontario.compareschoolrankings.org/pdfs/Fraser_Institute_Report_Card_on_Ontario%E2%80%99s_Secondary_Schools_2019.pdf">ibid.</a>
