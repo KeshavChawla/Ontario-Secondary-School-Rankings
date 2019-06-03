@@ -1,3 +1,5 @@
+// This function is used to check the trend corelations for each school with the data provided by the Fraser Institute
+
 function checkTrend(inputval, preval) {
   var sheet = SpreadsheetApp.getActiveSheet();
   var rows = sheet.getDataRange();
